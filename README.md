@@ -9,7 +9,8 @@ So this is not my first time attempting to learn CS. When I first went to colleg
 However, that all changed in November of 2024! My wife and I were traveling to Poland with our at the time 5 month old son (yes, I know, we are a little crazy). We were sitting in the Helsinki Airport (great airport, 9/10 would recommend) and I had the thought, "I used to like to program, I should pick it back up". So I took out my phone and started looking in the app store for something to help me start learning. There I found Mimo. It was a Duolingo-like learning platform for programming. So I started learning Python in the middle of an airport using an app. *(more to come)*
 
 ## Where I am at now
-As I learn more and go through boot.dev and anything else I do, this will be my log for it. Each day will have a little blurb about what I did that day and maybe how I felt about it. At the end of every month, I am going to do an end of the month recap where I go into more of my thought process of where I am at and what I want to do. That is my current plan, it might change but in the words of The Lopen: > "Journey before Pancakes"
+As I learn more and go through boot.dev and anything else I do, this will be my log for it. Each day will have a little blurb about what I did that day and maybe how I felt about it. At the end of every month, I am going to do an end of the month recap where I go into more of my thought process of where I am at and what I want to do. That is my current plan, it might change but in the words of The Lopen: 
+> "Journey before Pancakes"
 
 ### May 21st, 2025
 I used the seer stone on lesson 3.1 on the Static Site Generator for boot.dev. The reason why is I could not remember the code and what they were trying to have me do. I was confused because since it has been a couple of days since I worked on that project.
