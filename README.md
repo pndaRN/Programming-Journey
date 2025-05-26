@@ -15,3 +15,12 @@ As I learn, go through boot.dev, and anything else I do, this will be my log for
 ### May 21st, 2025
 I used the seer stone on lesson 3.1 on the Static Site Generator(ssg) for boot.dev. The reason why is I could not remember the code and what they were trying to have me do since it had been a couple days since worked on that project.
 Also started the regex section of chapter 3 of the ssg.
+
+### May 22nd, 2025
+I worked on memory management in C at work. Blew a 13/15 sharpshooter spree because I didn't read the question fully, feels bad man.
+
+### May 24th, 2025
+Knocked out a bunch of memory management lessons at work since it was a slow day and my patients that day didn't need much (that is a rare occurrence). Redeemed myself and got my sharpshooter spree back!
+
+### May 25th, 2025
+Finishing up a Sabbath and then had some friends over so I didn't get much programming done. So I just got a lesson in ssg done before bed but I am happy that I am still making progress!
