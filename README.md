@@ -12,7 +12,7 @@ However, that all changed in November of 2024! My wife and I were traveling to P
 As I learn, go through boot.dev, and anything else I do, this will be my log for it. Each day will have a little blurb about what I did that day and maybe how I felt about it. At the end of every month, I am going to do an end of the month recap where I go into more of my thought process of where I am at and what I want to do. That is my current plan, it might change but in the words of The Lopen: 
 > "Journey before Pancakes"
 
-## May
+## May 2025
 
 ### May 21st, 2025
 I used the seer stone on lesson 3.1 on the Static Site Generator(ssg) for boot.dev. The reason why is I could not remember the code and what they were trying to have me do since it had been a couple days since worked on that project.
