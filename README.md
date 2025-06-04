@@ -39,5 +39,5 @@ I was finally able to sit down at my computer to work on ssg and I was able to f
 ### May 31st, 2025
 Had a slow day at work so I was able to work on memory management. It actually is starting to make a lot of sense to me and I found myself enjoying writing in C!
 
-## May Wrap-up
+## May 2025 Wrap-up
 (coming soon)
