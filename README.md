@@ -1,7 +1,7 @@
 # My Programming Journey
 ## Intro
 ### Who am I?
-![Image](https://github.com/user-attachments/assets/262a5364-ec0c-4321-84f6-c6547c6cfea3)
+<img src="https://github.com/user-attachments/assets/262a5364-ec0c-4321-84f6-c6547c6cfea3" alt="me and my son" height="400" width="300">
 Hello dear reader! First I want to say, thank you for being interested enough to just click here. Hope you find my journey insightful. Let me introduce myself. My name is Mark Williams and I am not a computer scientist. I am actually a nurse that is interested in learning Comp Sci (I know some lingo). So here is my attempt at documenting my journey of learning computer science as an adult learner. 
 
 ### Where I started
