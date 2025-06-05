@@ -1,6 +1,8 @@
 # My Programming Journey
 ## Intro
 ### Who am I?
+<img src="https://github.com/user-attachments/assets/262a5364-ec0c-4321-84f6-c6547c6cfea3" alt="me and my son" height="400" width="300">
+<br>
 Hello dear reader! First I want to say, thank you for being interested enough to just click here. Hope you find my journey insightful. Let me introduce myself. My name is Mark Williams and I am not a computer scientist. I am actually a nurse that is interested in learning Comp Sci (I know some lingo). So here is my attempt at documenting my journey of learning computer science as an adult learner. 
 
 ### Where I started
@@ -12,7 +14,7 @@ However, that all changed in November of 2024! My wife and I were traveling to P
 As I learn, go through boot.dev, and anything else I do, this will be my log for it. Each day will have a little blurb about what I did that day and maybe how I felt about it. At the end of every month, I am going to do an end of the month recap where I go into more of my thought process of where I am at and what I want to do. That is my current plan, it might change but in the words of The Lopen: 
 > "Journey before Pancakes"
 
-## May
+## May 2025
 
 ### May 21st, 2025
 I used the seer stone on lesson 3.1 on the Static Site Generator(ssg) for boot.dev. The reason why is I could not remember the code and what they were trying to have me do since it had been a couple days since worked on that project.
