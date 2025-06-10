@@ -68,8 +68,8 @@ I know I'm approaching my first personal project, so I've already started thinki
 With that in mind, I've thought of different ways I could possibly launch it to others, so I've been looking at different frontend systems. In my limited time and searching, I found **Svelte** and I really like the concept of it and how it works. To help me learn HTML and CSS, I'm using **Mimo** again. Not super strict, but just using it as I think about it since my focus right now is Boot.dev. I've also started the tutorial on Svelte's website to start getting familiar with it. <br><br>
 That's what I've learned and what I'm moving towards! See you in June!
 
-## June 2026
-### June 1st, 2026
+## June 2025
+### June 1st, 2025
 Okay I legit love C! Is that weird?? It just makes sense to my grug brain for some reason and I really enjoy it! I might dive into it a bit more as a side project!
 
 ### June 4th, 2025
