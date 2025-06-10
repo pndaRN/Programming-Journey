@@ -30,7 +30,7 @@ Worked on memory management in C at work. Lost my 13/15 sharpshooter streak beca
 Productive day! Knocked out a bunch of memory management lessons at work since it was a slow day. My patients didn’t need much (a rare treat). Got my sharpshooter streak back—redemption!
 
 ### May 25th, 2025
-It was Sabbath so I had some friends over and spent time woth my family. Didn’t get much coding done, but I managed to finish a short lesson in SSG before bed. Still making progress!
+It was Sabbath so I had some friends over and spent time with my family. Didn’t get much coding done, but I managed to finish a short lesson in SSG before bed. Still making progress!
 
 ### May 26th, 2025
 Started using Mimo to casually explore front-end development. I’m really into Svelte, so I hope that by the time I dive into front-end work, I’ll at least have some foundation.
