@@ -51,11 +51,13 @@ Another slow day at work allowed me to study more memory management. It’s fina
 May was a major milestone in my CS journey—I officially switched to **Linux!** I’d been toying with the idea for a while, but what finally pushed me over the edge was watching PewDiePie’s video about switching to Linux, followed by The Primeagen’s reaction. That did it. I took the plunge. <br><br>
 I chose **Linux Mint** as my distro because I wanted something that worked out of the box and looked familiar—my wife, who isn’t tech-savvy, would also be using it. Mint was a great choice. It felt less like diving into the deep end and more like wading into the pool—just challenging enough to keep me engaged without overwhelming me. <br><br>
 Then came the setup of my dev environment—which, wow, is a rabbit hole. So many options! After some digging, here’s what I landed on:<br><br>
-- Terminal: I’m using **Alacritty**. It’s blazing fast, has fantastic documentation, and a vibrant community. I’ve uploaded my alacritty.toml in my config_files folder on this repo. (screenshot coming soon)
+- Terminal: I’m using **Alacritty**. It’s blazing fast, has fantastic documentation, and a vibrant community. I’ve uploaded my alacritty.toml in my config_files folder on this repo. ![Alacritty Screenshot](https://github.com/user-attachments/assets/47508c35-2b08-4849-8cc4-2b1cac06cb3c)
 - Shell: Switched from bash to **zsh** and installed *Oh My Zsh*. Haven’t explored all the features yet, but I love the customization.
+
 - Prompt: Using **Starship** for its speed, autocomplete, and customizability.
 - Multiplexer: I use **tmux** mainly to have multiple windows open at once, but I plan to explore more of its features soon. (screenshot coming soon)
-- Editor: I’ve officially joined Team **Neovim**! Still learning the motions and shortcuts, but I love keeping my hands on the keyboard. I use LazyVim for setup—it’s easy and has all the essentials. I also configured blink.cmp for autocomplete, which has been fantastic.
+- Editor: I’ve officially joined Team **Neovim**! Still learning the motions and shortcuts, but I love keeping my hands on the keyboard. I use LazyVim for setup—it’s easy and has all the essentials. I also configured blink.cmp for autocomplete, which has been fantastic.![Nvim screenshot](https://github.com/user-attachments/assets/baf68555-5baf-44f4-b618-6b4c199dc1b3)
+
 
 ### Boot.dev Progress
 - Started working on the Static Site Generator project this month and wow it is kicking my butt! This is definitely the hardest project yet. I have recently learned that this is not a unique experience for this project! I have been using Boots or a seer stone on almost lesson and at first I was feeling really guilty for doing so. What I have to remember is that it is not a bad thing to use resources and tools that are given to you to figure it out. That is just part of the learning process...
