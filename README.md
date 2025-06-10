@@ -76,4 +76,4 @@ Okay I legit love C! Is that weird?? It just makes sense to my grug brain for so
 The Static Site Generator project is tough for me! It's probably because I haven't been devoting all my programming time to it, so I keep getting confused with other stuff. Still making progress though - just one more chapter to go!
 
 ### June 9th, 2025
-I was able to knock out an entire chapter on memory management at work today! Also feeling very validated about SSGs with the announcement by Boot.dev!<br> <img src="https://github.com/user-attachments/assets/5300111d-c08e-4105-aa9d-4c7dcb8f77eb" alt="announcement" height="480" width="853">
+I was able to knock out an entire chapter on memory management at work today! Also feeling very validated about SSGs with the announcement by Boot.dev!<br> <img src="https://github.com/user-attachments/assets/5300111d-c08e-4105-aa9d-4c7dcb8f77eb" alt="announcement" height="853" width="480">
