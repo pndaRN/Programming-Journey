@@ -21,21 +21,19 @@ In the words of The Lopen:
 ## May 2025
 
 ### May 21st, 2025
-I used the seer stone on lesson 3.1 on the Static Site Generator(ssg) for boot.dev. The reason why is I could not remember the code and what they were trying to have me do since it had been a couple days since worked on that project.
-Also started the regex section of chapter 3 of the ssg.
+I used the seer stone on Lesson 3.1 (Static Site Generator) on boot.dev because I couldn’t remember the code or instructions—it had been a few days since I last worked on it. Also started the regex section of Chapter 3.
 
 ### May 22nd, 2025
-I worked on memory management in C at work. Blew a 13/15 sharpshooter spree because I didn't read the question fully, feels bad man.
+Worked on memory management in C at work. Lost my 13/15 sharpshooter streak because I didn’t read a question carefully—feels bad man.
 
 ### May 24th, 2025
-Knocked out a bunch of memory management lessons at work since it was a slow day and my patients that day didn't need much (that is a rare occurrence). Redeemed myself and got my sharpshooter spree back!
+Productive day! Knocked out a bunch of memory management lessons at work since it was a slow day. My patients didn’t need much (a rare treat). Got my sharpshooter streak back—redemption!
 
 ### May 25th, 2025
-Finishing up a Sabbath and then had some friends over so I didn't get much programming done. So I just got a lesson in ssg done before bed but I am happy that I am still making progress!
+It was Sabbath so I had some friends over and spent time woth my family. Didn’t get much coding done, but I managed to finish a short lesson in SSG before bed. Still making progress!
 
 ### May 26th, 2025
-Started using Memo to start learning some frontend development in a casual way. Hoping that by the time I am ready to work on a frontend (I really like Svelte so I will probably use that) I at least of some idea of what I am attempting to do.
-
+Started using Mimo to casually explore front-end development. I’m really into Svelte, so I hope that by the time I dive into front-end work, I’ll at least have some foundation.
 ### May 29th, 2025
 I haven't been able to sit down at my home computer in a couple days so all I have been able to work on is memory management while I am at work. I just have to remember that learning/doing a little is better than doing nothing!
 
