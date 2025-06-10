@@ -67,3 +67,13 @@ I also started the memory management in C course for when I don't want to work o
 I know I'm approaching my first personal project, so I've already started thinking about different ideas for what I want to build. What I've landed on is a recipe book/meal planner/grocery list app called **What's Cookin**. I want to build it in a way that will help my wife and me with our weekly meal planning and grocery shopping, because right now we just use a Google doc since we don't like any of the other apps out there for that task. So hopefully I can build something useful for us to use.<br><br> 
 With that in mind, I've thought of different ways I could possibly launch it to others, so I've been looking at different frontend systems. In my limited time and searching, I found **Svelte** and I really like the concept of it and how it works. To help me learn HTML and CSS, I'm using **Mimo** again. Not super strict, but just using it as I think about it since my focus right now is Boot.dev. I've also started the tutorial on Svelte's website to start getting familiar with it. <br><br>
 That's what I've learned and what I'm moving towards! See you in June!
+
+## June 2026
+### June 1st, 2026
+Okay I legit love C! Is that weird?? It just makes sense to my grug brain for some reason and I really enjoy it! I might dive into it a bit more as a side project!
+
+### June 4th, 2025
+The Static Site Generator project is tough for me! It's probably because I haven't been devoting all my programming time to it, so I keep getting confused with other stuff. Still making progress though - just one more chapter to go!
+
+### June 9th, 2025
+"I was able to knock out an entire chapter on memory management at work today! Also feeling very validated about SSGs with the announcement by Boot.dev!"![announcement](https://github.com/user-attachments/assets/5300111d-c08e-4105-aa9d-4c7dcb8f77eb)
