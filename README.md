@@ -77,3 +77,18 @@ The Static Site Generator project is tough for me! It's probably because I haven
 
 ### June 9th, 2025
 I was able to knock out an entire chapter on memory management at work today! Also feeling very validated about SSG with the announcement by Boot.dev!<br> <img src="https://github.com/user-attachments/assets/5300111d-c08e-4105-aa9d-4c7dcb8f77eb" alt="announcement" height="853" width="480">
+
+### June 10th, 2025
+My SSG code is completely broken right now, haha. I have no idea where things went sideways, and I have had to use so many seer stones to get this last chapter working! My plan is to just push through and finish the project however I can, then come back and clean it up properly once I'm done with the main coursework at boot.dev.
+
+### June 16th, 2025
+Only 2 more lessons on memory management! I've really enjoyed this course and definitely want to dive deeper into C once I finish boot.dev!
+
+### June 19th, 2025
+I finished memory management!!! I really loved this course so much and I'm so thankful they included it. I feel like I have a better understanding of how memory works and why memory management is so important. I also liked writing in a language with more syntax and structure - it just made reading code easier for me. Definitely want to do more C later once I finish the main boot.dev coursework!
+
+### June 20th, 2025
+Finished SSG! Definitely needed a lot of help on the last chapter because I messed up my code early on! I definitely want to go back and redo this project because I felt way over my head and ended up using a lot of AI assistance beyond just Boots.
+
+### June 23rd, 2025
+Started the AI Agent guided project at Boot.dev! I'm excited to learn how to implement AI because I'm starting to have ideas for different things to build, and one of them involves AI implementation.
