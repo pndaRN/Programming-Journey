@@ -92,3 +92,12 @@ Finished SSG! Definitely needed a lot of help on the last chapter because I mess
 
 ### June 23rd, 2025
 Started the AI Agent guided project at Boot.dev! I'm excited to learn how to implement AI because I'm starting to have ideas for different things to build, and one of them involves AI implementation.
+
+### June 25th, 2025 
+Started the data structures course for those random pockets of time when I can squeeze in some coding or when work's moving at a snail's pace. Switching from C to Python is seriously messing with my brain - I literally just tried to write 'if list == NULL' and had to laugh at myself when I remembered that's not how Python works!
+
+## June 2025 Wrap-up
+Coming soon!
+
+## July 2025 
+Got some data structures work done during the slow moments at work, and I'm finally starting to see why data management is such a big deal - especially all that sorting stuff! It's actually pretty fascinating, and my brain is getting a good workout since I haven't had to do real math in ages. Plot twist though: after getting used to C, I'm realizing I don't like writing in Python. I guess I like structure in my languages!
