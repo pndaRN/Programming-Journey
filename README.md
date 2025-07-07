@@ -100,4 +100,8 @@ Started the data structures course for those random pockets of time when I can s
 Coming soon!
 
 ## July 2025 
+### July 3rd, 2025
 Got some data structures work done during the slow moments at work, and I'm finally starting to see why data management is such a big deal - especially all that sorting stuff! It's actually pretty fascinating, and my brain is getting a good workout since I haven't had to do real math in ages. Plot twist though: after getting used to C, I'm realizing I don't like writing in Python. I guess I like structure in my languages!
+
+### July 4th, 2025 
+Alright, so I moved the AI Agent project back to my main computer instead of bouncing between that and my wife's laptop. I'm learning that for projects like this, I really need to stick to one system rather than constantly pushing and pulling from GitHub - turns out having different setups on different machines just creates headaches I don't need. But hey, I got off to a solid start on the project, and I'm genuinely enjoying figuring out how to integrate an AI model into actual software!
