@@ -97,7 +97,18 @@ Started the AI Agent guided project at Boot.dev! I'm excited to learn how to imp
 Started the data structures course for those random pockets of time when I can squeeze in some coding or when work's moving at a snail's pace. Switching from C to Python is seriously messing with my brain - I literally just tried to write 'if list == NULL' and had to laugh at myself when I remembered that's not how Python works!
 
 ## June 2025 Wrap-up
-Coming soon!
+### The Great Project Paradox: Completely Clueless Here, Totally Crushing It There
+This perfectly captures how this month felt as I was living through it. SSG had me completely stumped - I needed help with practically everything just to stumble through it. Meanwhile, memory management in C was turning out to be some of the most fun I've had coding since I started Boot.dev! Honestly, that contrast has left me with this weird feeling about what I actually accomplished this month. Part of me feels like I barely programmed at all, but then I remember I actually finished both SSG and C this month. I think it's because most of my coding happened during hospital shifts rather than sitting comfortably at my desktop setup. <br><br>
+What really came out of this though is that I definitely want to dive deeper into C/C++, or maybe explore something newer like Rust. I genuinely loved that style of programming - it just clicks with me somehow, and I found myself actually enjoying the problem-solving process instead of fighting it.
+
+### Getting Interested in Software Business (Because Ramen Can't Fund My Projects Forever)
+I've also gotten really curious about the business side of programming and software this month. After reading "No Rules Rules" last month, I found myself genuinely fascinated by how the business side of software actually works. That led me to discover Rob Walling, and I decided to dive into his first book "Start Small, Stay Small." <br> <br>
+Here's the thing - I absolutely love programming, but I'm not sure I'd ever want to be a developer at a company. As a nurse working three twelve-hour shifts a week, I've got this amazing schedule that I'm honestly not ready to give up. The thought of going back to four or five days a week just doesn't appeal to me right now. So I'm exploring different ways to make money with programming that don't involve being a full-time dev. <br> <br>
+Should be interesting to see where this curiosity takes me!
+
+### My Plans for July
+"I'm hoping to knock out the data structures course, finish building the AI Agent, and actually start my personal project this month. I'm thinking about building a recipe manager that can take screenshots or photos of recipes and recognize the text to build your own digital recipe book. It'll also let you create your own recipes from scratch.<br> <br>
+For now, I'm leaning toward making it a CLI application so I don't have to wrestle with GUI stuff, but who knows - I might change my mind once I actually dive into it!
 
 ## July 2025 
 ### July 3rd, 2025
