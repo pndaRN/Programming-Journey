@@ -21,9 +21,7 @@
 title: My Programming Journey 
 email: pndaRN.dev@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Follow Mark Williams' journey from nurse to programmer as he learns computer science through Boot.dev, 
-  explores C programming, Linux development, and documents his progress building projects like static site 
-  generators and AI agents. A real-time learning log for adult learners entering tech.
+  Notes from learning to code as an adult
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pndarn.github.io/Programming-Journey/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pndaRN
