@@ -4,18 +4,21 @@
 // Load Hack Nerd Font (TTF + optional WOFF2)
 @font-face {
   font-family: 'Hack Nerd Font';
-  src: url('/assets/fonts/hack-nerd/HackNerdFont-Regular.woff2') format('woff2'),
-       url('/assets/fonts/hack-nerd/HackNerdFont-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/hack-nerd/HackNerdFont-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Hack Nerd Font';
-  src: url('/assets/fonts/hack-nerd/HackNerdFont-Bold.woff2') format('woff2'),
-       url('/assets/fonts/hack-nerd/HackNerdFont-Bold.ttf') format('truetype');
+  src: url('/assets/fonts/hack-nerd/HackNerdFont-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
+}
+* {
+  font-family: "Hack Nerd Font", "Monaco", "Menlo", "Ubuntu Mono", monospace !important;
 }
 
 // Apply Nerd Font globally
@@ -40,4 +43,14 @@ body,
 .site-title {
   font-family: "Hack Nerd Font", monospace !important;
 }
-
+body::before {
+  content: "Custom CSS Loaded";
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: red;
+  color: white;
+  padding: 5px;
+  font-size: 12px;
+  z-index: 9999;
+}
