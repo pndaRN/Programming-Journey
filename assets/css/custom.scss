@@ -19,7 +19,25 @@
 }
 
 // Apply Nerd Font globally
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: "Hack Nerd Font", monospace;
+body, 
+.main-content,
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6,
+.main-content p,
+.main-content li,
+.main-content code,
+.main-content pre {
+  font-family: "Hack Nerd Font", monospace !important;
+}
+
+// Also target the site header and navigation
+.site-header,
+.site-nav,
+.site-title {
+  font-family: "Hack Nerd Font", monospace !important;
 }
 
