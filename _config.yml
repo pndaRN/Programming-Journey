@@ -27,11 +27,13 @@ github_username: pndaRN
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
+
+just-the-docs:
+  custom_css:
+    - assets/css/custom.scss
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-default-layout
 
-just-the-docs:
-  custom_css:
-    - assets/css/custom.scss
