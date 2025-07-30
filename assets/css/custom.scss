@@ -1,0 +1,23 @@
+---
+
+---
+
+@import "just-the-docs";
+
+@font-face {
+  font-family: 'Hack Nerd Font';
+  src: url('/assets/fonts/hack-nerd/HackNerdFont-Regular.ttf') format('truetype')
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hack Nerd Font';
+  src: url('/assets/fonts/hack-nerd/HackNerdFont-Bold.ttf') format('truetype')
+  font-weight: bold;
+  font-style: normal;
+}
+
+body, h1, h2, h3, h4{
+  font-family: "Hack Nerd Font", monospace;
+}
