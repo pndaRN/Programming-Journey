@@ -1,9 +1,6 @@
 ---
 # Jekyll front matter so SCSS is processed
 ---
-
-@import "just-the-docs"; // Import theme defaults first
-
 // Load Hack Nerd Font (TTF + optional WOFF2)
 @font-face {
   font-family: 'Hack Nerd Font';
