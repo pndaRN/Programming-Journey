@@ -1,6 +1,6 @@
 title: My Programming Journey 
 email: pndaRN.dev@proton.me
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Notes from learning to code as an adult
 url: "https://pndarn.github.io"
 baseurl: "/Programming-Journey"
@@ -9,9 +9,8 @@ github_username: pndaRN
 # Build settings
 remote_theme: just-the-docs/just-the-docs
 
-just_the_docs:
-  custom_css:
-    - assets/css/custom.scss
+sass:
+  sass_dir: _sass
 
 plugins:
   - jekyll-feed
