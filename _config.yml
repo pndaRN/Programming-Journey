@@ -7,7 +7,7 @@ baseurl: "/Programming-Journey"
 github_username: pndaRN
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 sass:
   sass_dir: _sass
