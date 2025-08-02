@@ -12,7 +12,7 @@ This repo contains my daily progress logs, monthly reflections, and the occasion
 ## What You'll Find Here
 
 - **Daily logs**: Short updates on what I learned, what broke, and how I felt about it
-- **Monthly wrap-ups**: Longer reflections on progress, setbacks, and random tangents
+- **Reflections**: Longer reflections on progress, setbacks, and random tangents
 - **Project documentation**: Details about my current builds and experiments
 - **Configuration files**: Because I spent way too much time tweaking my setup not to share it
 
