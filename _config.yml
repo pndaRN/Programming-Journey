@@ -6,13 +6,9 @@ url: "https://pndarn.github.io"
 baseurl: "/Programming-Journey"
 github_username: pndaRN
 
-# Build settings
-remote_theme: just-the-docs/just-the-docs
-
-sass:
-  sass_dir: _sass
+theme: "just-the-docs"
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-seo-tag
 
