@@ -24,7 +24,7 @@ This repo contains my daily progress logs, monthly reflections, and the occasion
 
 ## The Journey So Far
 
-Started in February 2025 after years away from programming. Went from "what's a pointer?" to "I unironically love writing C" in just a few months. Currently exploring the intersection of healthcare and technology while trying not to break my Linux setup too badly.
+Started in February 2025 after years away from programming. Went from "what's a pointer?" to "I unironically love writing C" in just a few months. Now documenting the journey through regular reflections rather than daily logs - turns out quality beats quantity when it comes to meaningful learning insights.
 
 ## Want to Follow Along?
 
