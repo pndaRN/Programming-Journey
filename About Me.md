@@ -1,12 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: single 
 nav_order: 1
 ---
-## Intro
-### Who am I?
+### About Me
 <img src="https://github.com/user-attachments/assets/262a5364-ec0c-4321-84f6-c6547c6cfea3" alt="me and my son" height="400" width="300">
 <br>
 Hello, dear reader! First, thank you for being curious enough to click here—I hope you find my journey insightful. <br><br>

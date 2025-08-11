@@ -2,9 +2,8 @@
 title: Vibe Coding Has My Vibe Broken
 nav_order: 5 
 author: Mark Williams
+layout: single
 ---
-# Vibe Coding Has My Vibe Broken
-
 Alright, I'm trying something new here. Instead of those tiny daily updates that basically amounted to "I did a thing, it was fine" (which honestly felt like those discussion board replies we all had to suffer through in college), I'm switching to medium-sized blog posts. Wait, do I have a blog now? That's... actually kind of cool!
 
 The idea is to still capture what I'm working on but with actual detail and meaning instead of the programming equivalent of "dear diary, today was Tuesday."

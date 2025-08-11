@@ -1,18 +1,161 @@
-title: My Programming Journey 
-email: pndaRN.dev@proton.me
-description: >-
-  Notes from learning to code as an adult
+title: "My Programming Journey" 
+name: "Mark Williams"
+email: "pndaRN.dev@proton.me"
+description: "A nurse's journey into programming - from bedside to terminal, documenting the chaotic path from 'what's a variable?' to building applications."
+
+
 url: "https://pndarn.github.io"
 baseurl: "/Programming-Journey"
 github_username: pndaRN
+locale: "en-US"
 
-theme: jekyll-theme-cayman
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 
-collections:
-  notes:
-    output: true
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+repository: "pndaRN/Programming-Journey"
+
+# Site Settings
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+words_per_minute         : 200
+
+# Site Author
+author:
+  name             : "Mark Williams"
+  avatar           : # "/assets/images/bio-photo.jpg"
+  bio              : "Mark Williams is a nurse turned accidental programmer who caught 
+                      the coding bug while sitting in Helsinki Airport with his five-month-old son. 
+                      When he's not figuring out why his C pointers are misbehaving or breaking his Jekyll setup, 
+                      he's documenting the chaotic journey from 'what's a variable?' to 
+                      'I unironically love terminal applications.' He lives with his wife and son, 
+                      maintains a concerning number of configuration files, and believes that journey comes before pancakes."
+  location         : "Norman, Oklahoma"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pndaRN.dev@proton.me"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://pndarn.github.io/Programming-Journey"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pndaRN"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pndaRN"
+  since: "2025"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - minimal-mistakes-jekyll.gemspec
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Pagination with jekyll-paginate
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-include-cache
 
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
