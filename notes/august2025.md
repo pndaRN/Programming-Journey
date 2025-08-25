@@ -11,8 +11,10 @@ Whoa, I'm actually working on one of these early... mind blown! Normally I'm scr
 ### Finishing the First Half of the Coursework
 
 That's wild to type. I'm halfway done with the main coursework for boot.dev. I knew it would happen eventually, but actually being here feels incredible. I can only imagine what it'll feel like when I finish all of it.
-<img src="{{ '/assets/gif/mind_blown.gif'}}" alt="mind blown">
- I really enjoyed finishing data structures and seeing the different ways to write code that's actually fast—well, as fast as it can be in Python (preview to my Rust section, hehe). Then I honestly didn't enjoy the AI Agent project as much as I thought I would. At first it seemed really interesting, but as I got further along, it just didn't spark joy for me. I really didn't want to go digging through the Gemini docs to make sure I got everything I needed.  
+<img src="{assets/gifs/mind_blown.gif}" alt="mind blown">
+
+ I really enjoyed finishing data structures and seeing the different ways to write code that's actually fast—well, as fast as it can be in Python (preview to my Rust section, hehe). Then I honestly didn't enjoy the AI Agent project as much as I thought I would. At first it seemed really interesting, but as I got further along, it just didn't spark joy for me. I really didn't want to go digging through the Gemini docs to make sure I got everything I needed. 
+ 
 Here's the thing though: I actually don't mind digging through docs on projects I'm interested in (preview to SilentMemoir). The AI project as a whole just kinda fell flat for me. I'm glad I did it because I like the feeling of completing tasks, but the project was just... meh.
 
 ### SilentMemoir
@@ -36,6 +38,7 @@ Look at me turning into a web developer—learning CSS and JS. Watch out world!
 The reason I started the JS course on boot.dev is twofold. One, I wanted to start a course I could work on while at work but didn't want to jump into the Go courses yet. Two, the more I learn about software development, the more I'm realizing how beneficial it is to be a well-rounded programmer in basic frameworks, with JS being one of them.
 
 I think for a while I was mentally putting myself in a box since I'm going through boot.dev. "I'm only learning backend stuff," I kept telling myself. However, I'm finding that if I want to do things myself and work for myself, I kinda need to know a bit about everything. I watched a video where AnthonyGG said that unless you're working for a FAANG company, it's actually better to be a generalist programmer, and that just opened up my mind to so much more. I don't know why that particular moment made a lightbulb go off, but it did. 
+
 
 So here I am, learning JavaScript like the good frontend developer I apparently am becoming.
 
