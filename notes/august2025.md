@@ -6,7 +6,7 @@ Whoa, I'm actually working on one of these early... mind blown! Normally I'm scr
 ### Finishing the First Half of the Coursework
 
 That's wild to type. I'm halfway done with the main coursework for boot.dev. I knew it would happen eventually, but actually being here feels incredible. I can only imagine what it'll feel like when I finish all of it. <br><br>
-<img src="https://github.com/pndaRN/Programming-Journey/blob/main/assets/gifs/mind_blown.gif" alt="mind blown">
+![mind blown](https://pndarn.github.io/Programming-Journey/assets/gifs/mind_blown.gif)
 
  I really enjoyed finishing data structures and seeing the different ways to write code that's actually fast—well, as fast as it can be in Python (preview to my Rust section, hehe). Then I honestly didn't enjoy the AI Agent project as much as I thought I would. At first it seemed really interesting, but as I got further along, it just didn't spark joy for me. I really didn't want to go digging through the Gemini docs to make sure I got everything I needed. 
  
@@ -63,6 +63,7 @@ This has been a fantastic month for my programming journey. It feels incredible 
 I feel like this month was the first time I actually sorta know what I'm doing—or if I don't know how to do something, I at least know how to look up how to do it now. So yeah, I'm really happy with where I'm at.
 
 My biggest challenge moving forward is not starting too many things and actually finishing them. I hear this is everyone's struggle as well. Luckily, I'm happy with what I'm learning right now and excited to have a general roadmap to follow through on!
+
 
 
 
