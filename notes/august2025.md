@@ -23,7 +23,7 @@ It started off slow because I had to figure out what I actually needed to start 
 Those coding sessions were actually really cool, exciting, and totally addicting! I still made errors, but because I knew exactly what I was trying to do with my code, I knew where to look to find the bug and fix it.
 
 So here's where the project currently stands: I have the basic flow between screens done. It's nothing fancy quite yet—I still have to build out each screen and the functions to go with them. However, figuring out how to set up each screen and then navigate between them was incredible. Here's what it currently looks like: <br><br>
-<img src="https://github.com/pndaRN/Programming-Journey/blob/main/assets/gifs/sm_four_screens.gif" alt="sm-four-screens">
+![sm four screens](https://pndarn.github.io/Programming-Journey/assets/gifs/sm_four_screens.gif)
 
 What's next is building out each screen. I'm going to start with the home screen (the easiest), then just move through the screens in order from there. This is forcing me to learn CSS because that's what Textual uses to style their apps, so I guess it's time to face CSS head-on instead of letting my friend Claude vibe code it out for me.
 
@@ -63,6 +63,7 @@ This has been a fantastic month for my programming journey. It feels incredible 
 I feel like this month was the first time I actually sorta know what I'm doing—or if I don't know how to do something, I at least know how to look up how to do it now. So yeah, I'm really happy with where I'm at.
 
 My biggest challenge moving forward is not starting too many things and actually finishing them. I hear this is everyone's struggle as well. Luckily, I'm happy with what I'm learning right now and excited to have a general roadmap to follow through on!
+
 
 
 
