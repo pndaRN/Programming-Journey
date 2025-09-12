@@ -1,3 +1,6 @@
+--- 
+nav_order: 7
+---
 # I Use Arch BTW
 
 Guys, I did it. I have found my way of restoring my virginity. Yes, I have a wife and a kid, but I have found the way to restore it... I'm running Arch (btw) now. All jokes aside, I got a new laptop, and around the tech world I've been seeing more and more people talking about and installing Arch. Sooooo I thought I would do the same, and boy, I did not know what I signed up for. Here's why.
