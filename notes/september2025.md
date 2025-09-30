@@ -4,7 +4,7 @@ nav_order: 8
 # September 2025 Wrap Up
 This past month was exciting and encouraging! I finished the alpha of SilentMemoir, successfully installed Arch Linux on my new laptop, beat two games, and my rock climbing YouTube channel hit 100 subscribers. So yeah, it was a productive month. I didn't work on everything I thought I was going to, but it was still such a good month!
 
-## SilentMemoir
+## [SilentMemoir](https://github.com/pndaRN/SilentMemoir)
 This blows my mind because it's the first thing I've built from concept to a working MVP. That's still just so crazy to me that I was able to do that. I can see how people can totally get addicted to this feeling of completion and building things. I'm already onto my next project in my head, lol.
 Something I'm going to prioritize is fixing bugs in the program because I know there are some, and I want to get in the practice of going back and fixing things. I've heard that reviewing and fixing code is most people's least favorite thing to do, so I should build that habit now while the project is fresh.
 
@@ -18,6 +18,7 @@ Sometimes the best way forward isn't the straightest line, and that's okay.
 I already wrote about this [here](https://pndarn.github.io/Programming-Journey/notes/archbtw_2025.html), so I won't go into too much detail, but I'm really happy with this little project. It forced me to understand what's going on with my system in a way I didn't expect. It also helped me realize how much stuff is happening in the background that I didn't know about - mostly because since installing Arch, I had to put everything there myself. So yeah, I had a lot of fun with this!
 
 ## Gaming
+![gaming banner](https://pndarn.github.io/Programming-Journey/assets/img/sept/gaming.png)
 I thought it would be fun to start including what I'm playing in these wrap-ups because I'm always playing something. This month I finished Ori and the Will of the Wisps and started and beat Hyper Light Drifter.
 
 ### An Emotional Master Piece
