@@ -1,7 +1,7 @@
 --- 
 nav_order: 6 
 ---
-# August 2025 Programming Review
+# August 2025 Wrap Up
 
 Whoa, I'm actually working on one of these early... mind blown! Normally I'm scrambling on the last day of the month (or even in the next month) to get this done. Look at me—I've peaked! It's only downhill from here. *Anyways*, this was a fantastic month for learning. I finished data structures and the AI project, I've got solid direction with SilentMemoir as my personal project, and I started the JavaScript course for those slow moments at work. I've also picked up *The Rust Programming Language* book because I like the idea of working a little closer to the metal but with safe memory management (you can call it a skill issue, but it doesn't bother me). Lastly, I may or may not be pivoting on this whole GitHub Pages thing.
 
