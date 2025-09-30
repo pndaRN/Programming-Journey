@@ -18,8 +18,9 @@ Sometimes the best way forward isn't the straightest line, and that's okay.
 I already wrote about this [here](https://pndarn.github.io/Programming-Journey/notes/archbtw_2025.html), so I won't go into too much detail, but I'm really happy with this little project. It forced me to understand what's going on with my system in a way I didn't expect. It also helped me realize how much stuff is happening in the background that I didn't know about - mostly because since installing Arch, I had to put everything there myself. So yeah, I had a lot of fun with this!
 
 ## Gaming
-![gaming banner](https://pndarn.github.io/Programming-Journey/assets/img/sept/gaming.png)
 I thought it would be fun to start including what I'm playing in these wrap-ups because I'm always playing something. This month I finished Ori and the Will of the Wisps and started and beat Hyper Light Drifter.
+![gaming banner](https://pndarn.github.io/Programming-Journey/assets/img/sept/gaming.png)
+I thought I would try an AI created banner lol
 
 ### An Emotional Master Piece
 I played the first Ori a couple years ago and loved it. It was the first time in my adult life that I was genuinely moved by a video game. So when I heard that Will of the Wisps was coming out, I knew I was going to play it - it just took me a couple years to get around to it, lol.
