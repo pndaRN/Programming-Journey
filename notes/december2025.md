@@ -27,7 +27,7 @@ This took a couple of days to set up because I had to set up both my Apple Devel
 
 I'm back writing in C! So besides everything I wrote about above, I decided to learn more about gamedev specifically. The reason is because I think games are so cool, and the idea of building my own is exciting! So I'm making a Galaga clone that's going to be bacteria and antibiotics. I'm using SDL2 as my library to interact with the computer. So far, I have a black box on a screen!
 
-![it_aint_much](https://pndarn.github.io/Programming-Journey/assets/img/oct/it_aint_much.jpg)
+![it_aint_much](https://github.com/pndaRN/Programming-Journey/blob/main/assets/img/it_aint_much.jpg)
 
 I really enjoy the simplicity of writing in C. Everything is what it is and not hidden behind complexity. If it's there, it's because you want it there. Yes, it creates more "work," but you know exactly what's going on because there isn't much under the hood. Basically the complete opposite of what I was doing with Flutter, lol.
 
