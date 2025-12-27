@@ -1,5 +1,5 @@
 ---
-nav_order: 9
+nav_order: 10
 ---
 # November/December 2025 Wrap Up
 
